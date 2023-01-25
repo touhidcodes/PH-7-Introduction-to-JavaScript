@@ -8,7 +8,7 @@ Variable Name Rules:
 6. Use Some Cases: 
  a. var user_home_address  // Snake Case
  b. var UserHome-Address  //Pascal Case
- c. var userHomeAddress  // Camel Case ***
+ c. var userHomeAddress  // Camel Case (use in JS)
 */
 
 var homeAddress = "jashore";
