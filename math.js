@@ -1,5 +1,5 @@
 /*
-Essential Maths:
+JS Essential Maths:
 1. Number: 2, 5, odd, even
 2. Integer: 5, 7
 3. Float: 4.5, 1/2

@@ -1,5 +1,5 @@
 /*
-% Rules of Variable:
+Rules of Variable:
 1. Var: The Var Statement Declares a Variable. 
 2. Variable Name: Variables Must be Identified with Unique Names.
 3. Assignment Operator: Use an "=" Operator to Assign a Value.
